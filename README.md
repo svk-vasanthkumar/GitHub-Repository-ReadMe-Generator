@@ -1,16 +1,24 @@
-# React + Vite
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="120" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# GitHub-Repository-ReadMe-Generator.
 
-Currently, two official plugins are available:
+![Stars](https://img.shields.io/github/stars/svk-vasanthkumar/GitHub-Repository-ReadMe-Generator) ![Forks](https://img.shields.io/github/forks/svk-vasanthkumar/GitHub-Repository-ReadMe-Generator) ![Last Commit](https://img.shields.io/github/last-commit/svk-vasanthkumar/GitHub-Repository-ReadMe-Generator) ![Views](https://komarev.com/ghpvc/?username=svk-vasanthkumar&repo=GitHub-Repository-ReadMe-Generator) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 Overview
+This is a simple and useful GitHub README generator.
 
-## React Compiler
+## ✨ Features
+- Easy to use
+- Clean UI
+- Beginner friendly
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Usage
+Run the app and generate README easily.
+
